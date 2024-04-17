@@ -23,7 +23,7 @@ public class Main{
                             System.out.println("Caja abierta"+cajas.get(0));
                             System.out.println("1.- Alta de productos");
                             System.out.println("2.- Ingresar nueva venta");
-                            System.out.println("3.- Ver inventario...");
+                            System.out.println("3.- Ver inventario..");
                             System.out.println("..........................");
                             String option4 = keyboard.next();
                             switch (option4) {
